@@ -7,3 +7,5 @@ http://www.codeskulptor.org/
 
 For the player on the right use Up and Down arrows to move the paddle.
 For the player on the left use W and S keys to move the paddle.
+
+![Image description](https://i.imgur.com/prHlQkH.png)
